@@ -160,6 +160,8 @@ appointy/
 
 We welcome contributions! Please feel free to submit issues, fork the repository, and open pull requests.
 
+<img width="1891" height="903" alt="Screenshot 2026-03-09 223051" src="https://github.com/user-attachments/assets/4c891aac-0f82-4430-8878-39c3a2523577" />
+
 
 ## 🌟 Acknowledgements
 
