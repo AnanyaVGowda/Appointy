@@ -156,15 +156,6 @@ appointy/
 └── .env             # Environment Variables
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit issues, fork the repository, and open pull requests.
-
 <img width="1891" height="903" alt="Screenshot 2026-03-09 223051" src="https://github.com/user-attachments/assets/4c891aac-0f82-4430-8878-39c3a2523577" />
+<img width="1882" height="690" alt="Screenshot 2026-03-09 223150" src="https://github.com/user-attachments/assets/7457c723-4108-475b-b718-c732ec5f4787" />
 
-
-## 🌟 Acknowledgements
-
-- Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
-
----
